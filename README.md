@@ -16,7 +16,7 @@ MfamaNet is a dual-branch multimodal neural network:
 - **MFA Loss** — Multiscale Feature Alignment (per-scale cosine embedding + global cross-modal contrastive)
 
 <p align="center">
-  <img src="assets/architecture.png" alt="MfamaNet Architecture" width="800">
+  <img src="assets/Architecture.png" alt="MfamaNet Architecture" width="800">
 </p>
 
 ## Directory Structure
